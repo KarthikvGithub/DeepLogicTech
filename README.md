@@ -9,3 +9,5 @@ To run the file :
 ```
 $ node index.js
 ```
+Then open the following URL to view the result 
+http://localhost:3000/getTimeStories
